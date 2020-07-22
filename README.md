@@ -1,5 +1,8 @@
 # EpichustAppJGJMes
-##### 项目环境 1. node : ^12.14.X 2. npm : >= ^6.10.x 3. vue-cli : ^4.2.2  
+##### 项目环境 
+* 1. node : ^12.14.X 
+* 2. npm : >= ^6.10.x 
+* 3. vue-cli : ^4.2.2  
 > 有问题可查看app环境搭建文档 http://bbs.epichust.com:9099/article/1568903122001  
 ##### 更新npm资源库地址，以便获取公司封装组件库  
 
