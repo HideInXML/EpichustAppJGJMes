@@ -2,9 +2,9 @@
 ##### 项目环境 1. node : ^12.14.X 2. npm : >= ^6.10.x 3. vue-cli : ^4.2.2  
 > 有问题可查看app环境搭建文档 http://bbs.epichust.com:9099/article/1568903122001  
 ##### 更新npm资源库地址，以便获取公司封装组件库  内网（推荐在公司的同事使用）：  
-``` npm config set registry http://10.1.1.10:8087/repository/npm-all/ 
+``` npm config set registry http://************/repository/npm-all/ 
 ``` 外网：  
-``` npm config set registry http://61.183.71.118:8087/repository/npm-all/ 
+``` npm config set registry http://************/repository/npm-all/ 
 ``` 还原npm资源库：  
 ``` npm config set registry http://registry.npmjs.org 
 ``` ~~淘宝镜像~~（已废弃，直接使用cnpm）  
