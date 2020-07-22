@@ -1,0 +1,29 @@
+[{
+    "id": "123",
+    "title": "设置",
+    "url": "../../assets/logo.png",
+    "icon": "setting",
+    "iconUrl": "",
+    "isIcon": true
+}, {
+    "id": "123",
+    "title": "设置2",
+    "url": "../../assets/logo.png",
+    "icon": "setting",
+    "iconUrl": "",
+    "isIcon": true
+}, {
+    "id": "123",
+    "title": "设置3",
+    "url": "../../assets/logo.png",
+    "icon": "setting",
+    "iconUrl": "",
+    "isIcon": true
+}, {
+    "id": "123",
+    "title": "设置4",
+    "url": "../../assets/logo.png",
+    "icon": "setting",
+    "iconUrl": "",
+    "isIcon": true
+}]
