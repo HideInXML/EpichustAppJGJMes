@@ -11,7 +11,7 @@
     "fix-memory-limit": "cross-env LIMIT=12072 increase-memory-limit"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "echarts": "^4.2.1",
     "eh-ui": "^0.1.9",
